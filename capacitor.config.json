@@ -1,0 +1,9 @@
+{
+  "appId": "ir.classmanager.offline",
+  "appName": "مدیریت کلاس من",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
